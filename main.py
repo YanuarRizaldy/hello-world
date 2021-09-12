@@ -1,5 +1,1 @@
-print("Wilujeng Sumping")
 print("Hello", "World!")
-print("Hello", "World!", sep='')
-print("Telkom", "University" ,sep="***",end="...")
-print("The Best")
